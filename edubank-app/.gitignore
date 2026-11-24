@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# File rahasia database Supabase
+.env
+backend/.env
+
+# Cache Expo & Build lokal
+.expo/
+dist/
+web-build/
+*.log
